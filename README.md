@@ -1,1 +1,1 @@
-# Hamza
+# School Result management system
